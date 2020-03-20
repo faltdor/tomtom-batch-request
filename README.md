@@ -7,5 +7,8 @@
 $ ./tomtom.sh
 ```
 
+## Config
+Add `--trace-time -v` to the script  to see full trace of request
+
 MIT
 **Free Software, Hell Yeah!**
